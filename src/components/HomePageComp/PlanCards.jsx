@@ -41,6 +41,7 @@ const DescTwo = styled.p`
 	font-size: 19px;
 	margin-bottom: 20px;
 	max-width: 300px;
+	color: #334155;
 `;
 const ButtonDiv = styled.div``;
 

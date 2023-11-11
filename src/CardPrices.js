@@ -3,7 +3,7 @@ const CardPrices = [
     id: 1,
     image: require('./Assets/ImageCardOne.png'),
     subtitle: "Basic Plan",
-    price: "FREE",
+    price: "FREE ",
     desc: "Simplify and succeed with our basic plan.",
     button: {
       text: "Get started free",
@@ -11,7 +11,7 @@ const CardPrices = [
       
       },
     },
-    features: ["Limited Projects", "Limited Projects", "Limited Projects", "Limited Projects", "Limited Projects"],
+    features: ["Unlimited custom fields", "30 day chat history", "Two-Way email sync", "Email support" ],
   },
   {
     id: 2,
@@ -25,7 +25,7 @@ const CardPrices = [
      
       },
     },
-    features: ["Limited Projects", "Limited Projects", "Limited Projects", "Limited Projects", "Limited Projects"],
+    features: ["Email automation", "Unlimited chat history", "Data import/export", "Call & Email Support" ],
   },
   {
     id: 3,
@@ -39,7 +39,7 @@ const CardPrices = [
     
       },
     },
-    features: ["Limited Projects", "Limited Projects", "Limited Projects", "Limited Projects", "Limited Projects"],
+    features: ["Unlimited custom fields", "30 day chat history", "Two-Way email sync", "Email support", ],
   },
 ];
 
